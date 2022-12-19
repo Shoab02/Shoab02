@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Shoab
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning NLP - Transformers
 - 💞️ I’m looking to collaborate on NLP Projects
 - 📫 You can reach me at shoab0202@gmail.com
