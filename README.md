@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Shoab
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning NLP - Transformers
-- 💞️ I’m looking to collaborate on NLP Projects
+- 🌱 I’m currently learning Recommender Systems
+- 💞️ I’m looking to collaborate on RecSys Projects
 - 📫 You can reach me at shoab0202@gmail.com
 
 <!---
